@@ -2,10 +2,6 @@
 
 O Sistema de Vendas é uma aplicação desenvolvida em Python com a biblioteca Tkinter para a interface gráfica e MySQL para o gerenciamento do banco de dados. Este sistema oferece funcionalidades para gestão de vendas, controle de estoque e cadastro de usuários, clientes e produtos, permitindo que administradores e vendedores realizem suas tarefas de forma eficiente.
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
 ## Funcionalidades
 ### Para Administradores:
 - Dashboard Administrativo: Controle completo sobre os dados do sistema.
